@@ -1,0 +1,12 @@
+What is Java Swing?
+
+Java Swing is apart of the Java Foundation Classes (JFC) and is used to create window-
+based programs. 
+
+Swing is built on top of Java AWT 
+
+The javax.swing package provides classes for java swing API such as JButton, 
+JTextField, JTextArea, JRadioButton, JCheckbox, JMenu, JColorChooser etc.
+
+JFC is a set of GUI components which simplify the development of desktop applications
+
