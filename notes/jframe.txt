@@ -1,0 +1,10 @@
+JFrame class
+
+The javax.swing.JFrame class is a type of container that inherits the java.awt.Frame
+class. 
+
+JFrame works like the main window where components like labels, buttons, textfields,
+etc are added to create a GUI.
+
+Unlike Frame, however, JFrame gives the option to hide or close the window.
+
