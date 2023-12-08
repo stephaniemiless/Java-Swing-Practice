@@ -2,6 +2,7 @@ package swing_02;
 
 import javax.swing.JFrame;
 
+//easiest, but not the best way
 public class JFrame1 extends JFrame{
     
     public JFrame1() {

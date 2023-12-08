@@ -9,7 +9,10 @@ public class JFrameDemo {
 
             @Override
             public void run() {
-                JFrame1 frame1 = new JFrame1();
+                //JFrame1 frame1 = new JFrame1();
+                
+                JFrame2 frame2 = new JFrame2();
+                //bc initialize is private, user cannot access it
             }
             
         });
