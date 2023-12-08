@@ -1,18 +1,15 @@
-package swing_02;
+package JPanel;
 
 import javax.swing.SwingUtilities;
 
-public class JFrameDemo {
+public class JPanel_Demo {
     
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
 
             @Override
             public void run() {
-                //JFrame1 frame1 = new JFrame1();
-                
-                JFrame2 frame2 = new JFrame2();
-                //bc initialize is private, user cannot access it
+               Frame frame = new Frame();
             }
             
         });
